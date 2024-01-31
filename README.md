@@ -1,0 +1,1 @@
+# Katalon_Software-Test-Automachine.GITHUB
